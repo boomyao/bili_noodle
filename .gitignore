@@ -1,0 +1,4 @@
+/temp
+.DS_Store
+.env.local
+__pycache__
